@@ -1,8 +1,8 @@
-**Modelo predictivo de especialidades nédicas en un hospital de Puerto Boyacá**
+***Modelo predictivo de especialidades nédicas en un hospital de Puerto Boyacá***
 
 Este proyecto desarrolla un modelo predictivo basado en técnicas de Machine Learning (regresión logística, random forest, gradient boosting, entre otros) para analizar y predecir patrones en las atenciones médicas de un Hospital público en el municipio de Puerto Boyacá. Se identifican las especialidades más demandadas y se exploran patrones por género, rango etario y entidad del usuario. A partir del análisis exploratorio y predictivo, se desarrollaron modelos de machine learning para clasificar y predecir las especialidades médicas más probables de atención según las características del paciente.
 
-📊 Objetivos
+📊 **Objetivos**
 
 Analizar la distribución de pacientes teniendo en cuenta el boletín del Plan de Desarrollo de Puerto Boyacá (https://puertoboyaca-boyaca.gov.co/MiMunicipio/ProgramadeGobierno/1_PDM_PPD-2024-2027.pdf). 
 
