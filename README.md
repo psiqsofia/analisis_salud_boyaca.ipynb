@@ -30,11 +30,19 @@ Los mejores resultados se obtuvieron con **Random Forest y Gradient Boosting, co
 
 💡 Conclusiones
 
-Las especialidades con mayor demanda fueron medicina general, odontología, PYP, medicina interna y nutrición.
-
+Las especialidades con mayor demanda fueron medicina general (45% del total de atenciones), odontología, PYP y medicina interna ; las que tienen menos atenciones son trabajo social, citas postquirúrgicas y de monitoreo.
 Se evidenciaron diferencias significativas por género y rango de edad: las mujeres asisten en una medida muy superior a las distintas especialidades médicas, lo que plantea interrogantes sobre el autocuidado de la población másculina, teniendo en cuenta que son ellos quienes presentan más muertes violentas y accidentales en el departamento.
-
 Los modelos predictivos permitieron identificar patrones útiles para orientar la planificación de servicios médicos, sin embargo el alcance es limitado debido a que el análisis corresponde únicamente al año 2022.
+
+🩺 Conclusiones en relación con Políticas Públicas:
+
+El análisis evidenció que las citas de Medicina General concentran el 45 % del total de atenciones, reflejando un** modelo asistencial reactivo más que preventivo**. La especialidad PYP predomina solo en la niñez y desaparece en la adultez, lo que sugiere la necesidad de fortalecer estrategias de promoción y detección temprana.
+
+Se observó una marcada brecha de género en el acceso a servicios médicos: **los hombres asisten hasta un 60 % menos** que las mujeres a partir de la adolescencia. Este patrón, asociado a normas culturales de masculinidad, indica la importancia de diseñar políticas de salud con enfoque diferencial de género que promuevan la atención preventiva masculina.
+
+Al agrupar las especialidades en tres bloques estratégicos (cardiovascular–metabólico, musculoesquelético y salud mental), se identificaron patrones de uso diferenciados por edad y sexo, relevantes para la planificación territorial en salud; por ejemplo amplia brecha de género en atenciones en salud mental (**366 %** más consultas femeninas).
+
+Finalmente, los modelos predictivos desarrollados (Random Forest y Gradient Boosting) alcanzaron un 46 % de exactitud, demostrando el potencial del aprendizaje automático para anticipar la demanda de servicios médicos y optimizar la asignación de recursos en el sistema de salud.
 
 ⚙️ Tecnologías utilizadas
 
