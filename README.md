@@ -69,7 +69,7 @@ jupyter notebook proyecto_especialidades.ipynb
 
 🧠**Autora**
 
-####Juliana Sofía Gómez H.
+#### Juliana Sofía Gómez H.
 📍 Psicóloga - Científica de Datos
 💼 Interés en proyectos de salud pública, People Analytics y Business Intelligence
 
