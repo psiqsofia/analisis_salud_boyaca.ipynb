@@ -36,7 +36,7 @@ Los modelos predictivos permitieron identificar patrones útiles para orientar l
 
 ## 🩺 Conclusiones en relación con Políticas Públicas:
 
-El análisis evidenció que las citas de Medicina General concentran el 45 % del total de atenciones, reflejando un** modelo asistencial reactivo más que preventivo**. La especialidad PYP predomina solo en la niñez y desaparece en la adultez, lo que sugiere la necesidad de fortalecer estrategias de promoción y detección temprana.
+El análisis evidenció que las citas de Medicina General concentran el 45 % del total de atenciones, reflejando un **modelo asistencial reactivo más que preventivo**. La especialidad PYP predomina solo en la niñez y desaparece en la adultez, lo que sugiere la necesidad de fortalecer estrategias de promoción y detección temprana.
 
 Se observó una marcada brecha de género en el acceso a servicios médicos: **los hombres asisten hasta un 60 % menos** que las mujeres a partir de la adolescencia. Este patrón, asociado a normas culturales de masculinidad, indica la importancia de diseñar políticas de salud con enfoque diferencial de género que promuevan la atención preventiva masculina.
 
