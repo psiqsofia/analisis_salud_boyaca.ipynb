@@ -44,7 +44,7 @@ Al agrupar las especialidades en tres bloques estratégicos (cardiovascular–me
 
 Finalmente, los modelos predictivos desarrollados (Random Forest y Gradient Boosting) alcanzaron un 46 % de exactitud, demostrando el potencial del aprendizaje automático para anticipar la demanda de servicios médicos y optimizar la asignación de recursos en el sistema de salud.
 
-⚙️** Tecnologías utilizadas**
+⚙️**Tecnologías utilizadas**
 
 -Python 🐍
 
@@ -67,9 +67,9 @@ pip install -r requirements.txt
 Abre el notebook
 jupyter notebook proyecto_especialidades.ipynb
 
-🧠** Autora**
+🧠**Autora**
 
-Juliana Sofía Gómez H.
+####Juliana Sofía Gómez H.
 📍 Psicóloga - Científica de Datos
 💼 Interés en proyectos de salud pública, People Analytics y Business Intelligence
 
